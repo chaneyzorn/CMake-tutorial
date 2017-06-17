@@ -1,4 +1,4 @@
-# CMake-tutorial([原文])(https://cmake.org/cmake-tutorial/)
+# CMake-tutorial([原文](https://cmake.org/cmake-tutorial/))
 
 这份渐进式的教程涵盖了 CMake 帮助处理的一些常见的构建问题。许多议题已经在[《Mastering CMake》](http://www.kitware.com/products/books/CMakeBook.html)中作为独立的话题介绍过，但是了解它们是如何在示例项目中结合在一起的将非常有帮助。你可以在 CMake 源码中的 [Tests/Tutorial](https://gitlab.kitware.com/cmake/cmake/tree/master/Tests/Tutorial) 文件夹找到这份教程，每一步的内容都放置在各自的子文件夹中。
 
